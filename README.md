@@ -2,7 +2,6 @@
 Create a search engine to learn Python!
 Search Engine is a web-application developed in Python scripting language. The main aim of the project is to develop an excellent searching platform on internet. The implementation of the project reduces the effort to search the required information on web. The searching mechanism of proposed search engine is similar to the popular search engines Google, Bing, Ask.com, etc. to some extent.
 
-You can download the full source code of the project from the download links given in the post. The project documentation, report and presentation file are not available for download at this moment. So, below I have briefly described the features and scopes of this project; you can refer this description as project synopsis.
 
 While working in office or studying in class, one needs to search a number of relevant information and data. There are various traditional ways of looking for required information such as asking some experts, turning the pages of books, etc. But, these methods are obviously tedious, time consuming and uneconomical. In order to overcome these drawbacks of traditional searching procedures, the concept of web search engines has been developed.
 
@@ -23,10 +22,7 @@ The search engine gives the best result by analyzing the page ranks.
 It uses the features such as web crawling, indexing, page ranking etc. to give the accurate and fast result.
 It can be accessed from all the geographic location, provided there is internet service.
 The project resembles famous search engines Google and Bing to a fair extent.
-Also see,
-Virtual Memory Management System
-Video Chat Python App
-More Python Projects
+
 
 Conclusion:
 
